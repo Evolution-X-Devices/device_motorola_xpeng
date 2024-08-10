@@ -1,2 +1,5 @@
 # Google
 ro.opa.device_model_id=motorola-xpeng
+
+# Radio
+ro.vendor.radio.imei.sv=20
