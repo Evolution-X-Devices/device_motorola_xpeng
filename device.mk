@@ -29,6 +29,7 @@ PRODUCT_PACKAGES += \
     LineageApertureAppDevice \
     LineagePlatformDevice \
     LineageSystemUIDevice \
+    SettingsResDevice \
     SystemUIResDevice \
     WifiResDevice
 
