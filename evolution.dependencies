@@ -8,6 +8,6 @@
     "repository": "Deivid-21s-Sources/proprietary_vendor_motorola_xpeng",
     "target_path": "vendor/motorola/xpeng",
     "remote": "github-non-los",
-    "branch": "lineage-22.2"
+    "branch": "lineage-23.2"
   }
 ]
